@@ -1,3 +1,3 @@
 # HackerRank
 
-*Exercícios do HackerHank feitos com JavaScript
+* Exercícios do HackerHank feitos com JavaScript
